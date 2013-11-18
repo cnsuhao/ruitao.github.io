@@ -109,7 +109,7 @@ class Encoder
 }
 ```
 
-更多的可以看 [](http://zephir-lang.com/functions.html)
+更多的可以看 [Calling Functions](http://zephir-lang.com/functions.html)
 
 ## 调用c类库
 
